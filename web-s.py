@@ -1,4 +1,4 @@
-
+#scrapp one player from the player page 
 
 from selenium import webdriver
 import pandas as pd
